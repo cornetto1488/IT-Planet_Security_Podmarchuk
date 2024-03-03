@@ -1,0 +1,6 @@
+﻿time;Type of attack;CVE
+2024y. Jan 23:43;denial of service;CVE-2011-5049
+;;
+Person;IP;MAC
+The attacker;192.168.0.1;08:00:27:b1:9d:67
+Victim;192.168.0.100;08:00:27:fa:d3:d2
